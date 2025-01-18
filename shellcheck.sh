@@ -21,6 +21,7 @@ function validate-files() {
 
     files=(
         shellcheck.sh
+        bin/backup.sh
     )
     readonly files
 
